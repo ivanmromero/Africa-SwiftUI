@@ -8,13 +8,10 @@
 import SwiftUI
 
 struct AnimalListItemView: View {
-    
-    
     // MARK: - PROPERTIES
     let animal: Animal
     
     // MARK: - FUNCS
-    
     // MARK: - BODY
     var body: some View {
         HStack(alignment: .center, spacing: 16, content: {
@@ -40,9 +37,7 @@ struct AnimalListItemView: View {
     }
 }
 
-
-
-// MARK: - PROPERTIES
+// MARK: - PREVIEW
 fileprivate let animals: [Animal] = Bundle.main.decode("animals.json")
 
 #Preview(traits: .sizeThatFitsLayout) {

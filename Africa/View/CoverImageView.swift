@@ -28,7 +28,7 @@ struct CoverImageView: View {
     }
 }
 
-// MARK: - PROPERTIES
+// MARK: - PREVIEW
 #Preview(traits: .fixedLayout(width: 400, height: 300)) {
     CoverImageView()
 }
