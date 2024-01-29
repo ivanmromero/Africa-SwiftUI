@@ -23,8 +23,6 @@ struct CoverImageView: View {
             }
         }
         .tabViewStyle(.page)
-        
-
     }
 }
 
