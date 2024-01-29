@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D2E609A62B67E652004DD02E /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E609A52B67E652004DD02E /* MotionAnimationView.swift */; };
 		D2FE11B12B5F2C6B00BA04C7 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE11B02B5F2C6B00BA04C7 /* AfricaApp.swift */; };
 		D2FE11B32B5F2C6B00BA04C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FE11B22B5F2C6B00BA04C7 /* ContentView.swift */; };
 		D2FE11B52B5F2C7000BA04C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2FE11B42B5F2C7000BA04C7 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D2E609A52B67E652004DD02E /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		D2FE11AD2B5F2C6B00BA04C7 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2FE11B02B5F2C6B00BA04C7 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		D2FE11B22B5F2C6B00BA04C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				D2FE12032B61D1A700BA04C7 /* VideoListItemView.swift */,
 				D2FE12052B63011B00BA04C7 /* VideoPlayerView.swift */,
 				D2FE120C2B63FF4C00BA04C7 /* MapAnnotationView.swift */,
+				D2E609A52B67E652004DD02E /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				D2FE11FA2B5F540700BA04C7 /* InsetGalleryView.swift in Sources */,
 				D2FE12042B61D1A700BA04C7 /* VideoListItemView.swift in Sources */,
 				D2FE11EE2B5F385200BA04C7 /* CodableBundleExtension.swift in Sources */,
+				D2E609A62B67E652004DD02E /* MotionAnimationView.swift in Sources */,
 				D2FE11F82B5F526400BA04C7 /* HeadingView.swift in Sources */,
 				D2FE12062B63011B00BA04C7 /* VideoPlayerView.swift in Sources */,
 			);
